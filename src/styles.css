@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Lilex:ital,wght@0,100..700;1,100..700&family=Smooch+Sans:wght@100..900&display=swap');
 
 body {
   font-family: 'Smooch Sans';
+  font-display: swap;
 }
